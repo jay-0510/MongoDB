@@ -1,0 +1,24 @@
+SQL to MONGODB 
+
+SQL Terms/Concepts                      MONGODB Terms/Concepts 
+
+database                                     database
+table                                        collection
+row                                          document or BSON document
+column                                       field
+index                                        index
+primary key                                  primary key
+aggregation (eg: group by)                   aggregation pipeline 
+
+
+SQL -
+Database -> Table -> rows -> and this row is data of ours 
+
+Mongo DB 
+Database -> collection -> documents 
+Here documents is resembling to rows (Relational database) 
+Here schema is not needed. Schema should be same is not necessary.  
+
+MongoDb Atlas 
+Its manage service - No another machine is needed to deploy database 
+Its MongoDB ON THE CLOUD !!!
