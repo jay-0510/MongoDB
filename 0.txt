@@ -22,3 +22,5 @@ Here schema is not needed. Schema should be same is not necessary.
 MongoDb Atlas 
 Its manage service - No another machine is needed to deploy database 
 Its MongoDB ON THE CLOUD !!!
+
+Its free for small database.
